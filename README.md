@@ -22,3 +22,4 @@
 ``este es un comentario que aparece en la rama1``
 main
 
+``Prueba de comparacion de estados``
