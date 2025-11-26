@@ -2,6 +2,7 @@
 
 ``comentario``
 
+<<<<<<< HEAD
 
 
 ## Este es un cambio en el archivo README
@@ -14,3 +15,10 @@
  1. Hola
  2. Que tal 
  3. Estas 
+=======
+ rama2
+``Este es un comentario de la rama 2``
+
+``este es un comentario que aparece en la rama1``
+main
+>>>>>>> d216605e5970538b179614e517465118e98fbe14
